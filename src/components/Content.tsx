@@ -93,7 +93,10 @@ const Content = async (props: Props) => {
               artistName: string;
               duration: string;
             }) => (
-              <div className="flex  items-center text-xs hover:bg-gray-100 cursor-pointer group">
+              <div
+                key={track.id}
+                className="flex  items-center text-xs hover:bg-gray-100 cursor-pointer group"
+              >
                 <div className="flex gap-4 items-center flex-1">
                   <div className="h-[30px] w-[30px] rounded-sm bg-gray-300 ml-1 group-hover:bg-[#696969]  flex justify-center items-center">
                     <FaRegCirclePlay

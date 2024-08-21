@@ -73,7 +73,7 @@ const Navbar = (props: Props) => {
         </div>
         <div className="flex gap-4 items-center cursor-pointer hover:text-black">
           <RiPlayList2Line />
-          <span className="font-bold text-sm">Chilin' at Home</span>
+          <span className="font-bold text-sm">Chilin{"'"} at Home</span>
         </div>
         <div className="flex gap-4 items-center cursor-pointer hover:text-black">
           <RiPlayList2Line />
