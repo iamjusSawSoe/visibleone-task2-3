@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-Check out the live version of the project here: [Visible One Task One Live](https://visibleone-task-2.vercel.app/)
+Check out the live version of the project here: [Visible One Task One Live](https://visibleone-task2-3-2zu4.vercel.app/)
 
 ## Installation
 
